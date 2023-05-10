@@ -1,0 +1,23 @@
+.imagen {
+    display: flex;
+    height: 2rem;
+    width: 2rem;
+}
+
+.tittle {
+    font-size: 3rem;    
+    color: red;
+    text-align: center;
+    -webkit-text-stroke: 1px black;
+    transition: color .7s;
+}.tittle:hover {
+    transition: .7s;
+    color: black;
+    -webkit-text-stroke: 1px red;
+}
+
+.text {
+    font-style: oblique;
+    color: black;
+    font-size: 1.1em;
+}
