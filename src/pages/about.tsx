@@ -36,7 +36,7 @@ export const About = () => {
             <div className="d-flex gap-4">
                 <a 
                     className="btn btn-secondary shadow"
-                    href="assets/CV  - Estiven Moica.pdf"
+                    href="assets/CV - Estiven Moica.pdf"
                     download
                 >
                     <img className="imagen"  src="assets/logoPDF.jpeg" alt="Logo de PDF" />
